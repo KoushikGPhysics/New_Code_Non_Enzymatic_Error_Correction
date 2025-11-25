@@ -37,3 +37,4 @@ Simplifiedratio = FullSimplify[ProbRatio];
 Print["Accuracy Ratio:", Simplifiedratio];
 
 Accuracy Ratio:(p w+a qw (qr+w))/(a qr^2+(p+qr) w)
+
