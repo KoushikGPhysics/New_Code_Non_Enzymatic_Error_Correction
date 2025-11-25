@@ -2,6 +2,8 @@ Code for “Non-enzymatic error correction in self-replicators without extraneou
 
 This repository contains all MATLAB scripts used to generate the results and figures for the manuscript:
 
+sql
+
 /src
     main_simulation.m          – Runs the full template-directed polymerization model
     kinetics_functions.m       – Contains rate equations and proofreading steps
