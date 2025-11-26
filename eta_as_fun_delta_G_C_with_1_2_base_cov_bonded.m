@@ -3,7 +3,7 @@ p=linspace(1,100,500);
 q_r=1; q_w=100;
 a_r=5000; b_r=1/5000;
 a_w=1; b_w=1;
-w=10^9; v=0;
+w=10^6; v=0;
 
 s=first_covalent_bonded_s_matrix();
 
@@ -38,3 +38,4 @@ set(gca, 'Box', 'on', 'LineWidth',1, 'FontSize', 12, 'FontName', 'Times New Roma
 set(gca, 'TickDir', 'out', 'TickLength', [0.02, 0.02], 'XMinorTick', 'on', 'YMinorTick', 'on', ...
          'XColor', 'k', 'YColor', 'k', 'FontSize', 14, 'FontName', 'Times New Roman');   
 set(gcf, 'PaperUnits', 'inches');
+
