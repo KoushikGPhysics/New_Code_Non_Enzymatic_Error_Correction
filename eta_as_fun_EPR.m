@@ -26,7 +26,7 @@ switch Type
         b_w= 1;
 end
  
-w=10^10; 
+w=10^5; 
 
 s = covalent_s_matrix(n, E_position);  
 
@@ -272,6 +272,7 @@ Q=Q-diag(sum(Q,2));
 
 
 end
+
 
 
 
