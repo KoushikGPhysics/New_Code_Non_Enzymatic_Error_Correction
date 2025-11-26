@@ -8,7 +8,7 @@ E_position=3;                                            % Error position
 ther_dis_fac=100;                                      % thermodynamic discrimiantion factor
 a_r=5000^1; b_r=5000^(-1) ;                 % Kinetic modulating factors fot the correct base pair
 p=linspace(1,50,1000);
-w=10^9;
+w=10^6;
 
 ratio=zeros(1,length(p));
 
@@ -67,3 +67,4 @@ T_C = numerator_C / (B(initial_state, 1) + eps);
 numerator_W = sum(F(initial_state, :) .* B(:, 2)');       
 T_W = numerator_W / (B(initial_state, 2) + eps);
 end
+
