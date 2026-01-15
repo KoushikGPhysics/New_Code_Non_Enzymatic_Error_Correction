@@ -24,6 +24,7 @@ This repository contains all MATLAB scripts used to generate the results and fig
 | `probability_evolution_non_absorbing_markov_chain.m`   | Generates **Figure S6(b)+S7(b)**    |
 | `eta_vs_w_N.m`                                         | Generates **Figure S8(a)** |
 | `eta_vs_deltaG_C_N.m`                                  | Generates **Figure S8(b)** |
+|`P_Evolution_consequtive`                               | Generates **Figer S9**|
 
 
 
