@@ -1,4 +1,5 @@
-Code for “Non-enzymatic error correction in self-replicators without extraneous energy supply”
+Code for “Non-enzymatic error correction in self-replicators without extraneous energy supply”. 
+https://doi.org/10.1038/s41598-026-40325-9
 
 This repository contains all MATLAB scripts used to generate the results and figures for the manuscript:
 
